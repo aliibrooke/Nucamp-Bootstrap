@@ -1,0 +1,57 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "courier", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "terminal", cursive;
+}
+
+h2 {
+    color: #b0d0d3;
+}
+
+header h2 {
+    color: #c08497;
+
+}
+
+footer {
+    background-image: linear-gradient(#f7af9d, white);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #065a60, #212f45, #4d194d);
+    color: white;
+
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar-dark {
+    background-color: #9e0059;
+}
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0.5, 0.5);
+}
+
+.carousel {
+    border: dotted #a01a58;
+}
